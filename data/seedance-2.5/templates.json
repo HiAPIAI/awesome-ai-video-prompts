@@ -1,0 +1,397 @@
+{
+  "schema_version": "1.0",
+  "partition": "seedance-2.5/templates",
+  "source_file": "templates.json",
+  "items": [
+    {
+      "schema_version": "1.0",
+      "id": "one-take-product-story",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "original-template",
+        "url": null,
+        "author": "HiAPI",
+        "license_status": "review-required",
+        "attribution": "Confirm the repository license before publishing"
+      },
+      "title": {
+        "en": "The 30-Second One-Take Product Story",
+        "zh": "30 秒一镜到底产品故事"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: text-to-video",
+        "zh": "30 秒一镜到底产品故事",
+        "availability": "theme-only"
+      },
+      "capability": "text-to-video",
+      "duration_seconds": 30,
+      "aspect_ratio": "16:9",
+      "resolution": "4k",
+      "categories": [],
+      "tags": [],
+      "media": {
+        "preview_image": null,
+        "preview_video": null,
+        "rights_status": "first-party"
+      },
+      "fallback": {
+        "model": "seedance-2.0",
+        "notes": "Keep [00:00-00:15] only, drop the end card."
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "id": "fifty-reference-brand-world",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "original-template",
+        "url": null,
+        "author": "HiAPI",
+        "license_status": "review-required",
+        "attribution": "Confirm the repository license before publishing"
+      },
+      "title": {
+        "en": "Fifty-Reference Brand World",
+        "zh": "50 参考图品牌世界"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: image-to-video",
+        "zh": "50 参考图品牌世界",
+        "availability": "theme-only"
+      },
+      "capability": "image-to-video",
+      "duration_seconds": 20,
+      "aspect_ratio": "16:9",
+      "resolution": "4k",
+      "categories": [],
+      "tags": [],
+      "media": {
+        "preview_image": null,
+        "preview_video": null,
+        "rights_status": "first-party"
+      },
+      "fallback": {
+        "model": "seedance-2.0",
+        "notes": "Cap references at 12 — keep product + location + grade."
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "id": "native-audio-dialogue",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "original-template",
+        "url": null,
+        "author": "HiAPI",
+        "license_status": "review-required",
+        "attribution": "Confirm the repository license before publishing"
+      },
+      "title": {
+        "en": "Dialogue Scene with Native Audio Sync",
+        "zh": "原生音频同步对话戏"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: text-to-video",
+        "zh": "原生音频同步对话戏",
+        "availability": "theme-only"
+      },
+      "capability": "text-to-video",
+      "duration_seconds": 25,
+      "aspect_ratio": "16:9",
+      "resolution": "4k",
+      "categories": [],
+      "tags": [],
+      "media": {
+        "preview_image": null,
+        "preview_video": null,
+        "rights_status": "first-party"
+      },
+      "fallback": {
+        "model": "seedance-2.0",
+        "notes": "Trim to one line each, 12s."
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "id": "impossible-sports-broadcast",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "original-template",
+        "url": null,
+        "author": "HiAPI",
+        "license_status": "review-required",
+        "attribution": "Confirm the repository license before publishing"
+      },
+      "title": {
+        "en": "The Impossible Sports Broadcast",
+        "zh": "不可能的体育转播"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: text-to-video",
+        "zh": "不可能的体育转播",
+        "availability": "theme-only"
+      },
+      "capability": "text-to-video",
+      "duration_seconds": 30,
+      "aspect_ratio": "16:9",
+      "resolution": "4k",
+      "categories": [],
+      "tags": [],
+      "media": {
+        "preview_image": null,
+        "preview_video": null,
+        "rights_status": "first-party"
+      },
+      "fallback": {
+        "model": "seedance-2.0",
+        "notes": "Keep the first two beats, 15s."
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "id": "one-take-cooking-asmr",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "original-template",
+        "url": null,
+        "author": "HiAPI",
+        "license_status": "review-required",
+        "attribution": "Confirm the repository license before publishing"
+      },
+      "title": {
+        "en": "Single-Take Cooking ASMR",
+        "zh": "一镜到底料理 ASMR"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: text-to-video",
+        "zh": "一镜到底料理 ASMR",
+        "availability": "theme-only"
+      },
+      "capability": "text-to-video",
+      "duration_seconds": 30,
+      "aspect_ratio": "16:9",
+      "resolution": "4k",
+      "categories": [],
+      "tags": [],
+      "media": {
+        "preview_image": null,
+        "preview_video": null,
+        "rights_status": "first-party"
+      },
+      "fallback": {
+        "model": "seedance-2.0",
+        "notes": "First two beats as a 12s clip."
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "id": "character-consistent-micro-film",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "original-template",
+        "url": null,
+        "author": "HiAPI",
+        "license_status": "review-required",
+        "attribution": "Confirm the repository license before publishing"
+      },
+      "title": {
+        "en": "Character-Consistent Micro-Film",
+        "zh": "角色一致性微电影"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: image-to-video",
+        "zh": "角色一致性微电影",
+        "availability": "theme-only"
+      },
+      "capability": "image-to-video",
+      "duration_seconds": 30,
+      "aspect_ratio": "16:9",
+      "resolution": "4k",
+      "categories": [],
+      "tags": [],
+      "media": {
+        "preview_image": null,
+        "preview_video": null,
+        "rights_status": "first-party"
+      },
+      "fallback": {
+        "model": "seedance-2.0",
+        "notes": "12 refs max, 15s, cut the light-shutdown beat."
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "id": "4k-texture-torture-test",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "original-template",
+        "url": null,
+        "author": "HiAPI",
+        "license_status": "review-required",
+        "attribution": "Confirm the repository license before publishing"
+      },
+      "title": {
+        "en": "The 4K Texture Torture Test",
+        "zh": "4K 纹理拷问测试"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: text-to-video",
+        "zh": "4K 纹理拷问测试",
+        "availability": "theme-only"
+      },
+      "capability": "text-to-video",
+      "duration_seconds": 20,
+      "aspect_ratio": "16:9",
+      "resolution": "4k",
+      "categories": [],
+      "tags": [],
+      "media": {
+        "preview_image": null,
+        "preview_video": null,
+        "rights_status": "first-party"
+      },
+      "fallback": {
+        "model": "seedance-2.0",
+        "notes": "Same prompt, 1080p, judge the difference at launch."
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "id": "audio-led-music-performance",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "original-template",
+        "url": null,
+        "author": "HiAPI",
+        "license_status": "review-required",
+        "attribution": "Confirm the repository license before publishing"
+      },
+      "title": {
+        "en": "Audio-Led Music Performance",
+        "zh": "音频驱动音乐演出"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: image-to-video",
+        "zh": "音频驱动音乐演出",
+        "availability": "theme-only"
+      },
+      "capability": "image-to-video",
+      "duration_seconds": 20,
+      "aspect_ratio": "16:9",
+      "resolution": "4k",
+      "categories": [],
+      "tags": [],
+      "media": {
+        "preview_image": null,
+        "preview_video": null,
+        "rights_status": "first-party"
+      },
+      "fallback": {
+        "model": "seedance-2.0",
+        "notes": "Describe the music in text instead of attaching audio, 10s."
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "id": "white-model-walkthrough",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "original-template",
+        "url": null,
+        "author": "HiAPI",
+        "license_status": "review-required",
+        "attribution": "Confirm the repository license before publishing"
+      },
+      "title": {
+        "en": "Architectural Walkthrough from a 3D White Model",
+        "zh": "3D 白模建筑漫游"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: image-to-video",
+        "zh": "3D 白模建筑漫游",
+        "availability": "theme-only"
+      },
+      "capability": "image-to-video",
+      "duration_seconds": 30,
+      "aspect_ratio": "16:9",
+      "resolution": "4k",
+      "categories": [],
+      "tags": [],
+      "media": {
+        "preview_image": null,
+        "preview_video": null,
+        "rights_status": "first-party"
+      },
+      "fallback": {
+        "model": "seedance-2.0",
+        "notes": "Replace the white model with 4 elevation renders, 15s."
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "id": "season-cycle-time-compression",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "original-template",
+        "url": null,
+        "author": "HiAPI",
+        "license_status": "review-required",
+        "attribution": "Confirm the repository license before publishing"
+      },
+      "title": {
+        "en": "The Season-Cycle Time Compression",
+        "zh": "四季轮转时间压缩"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: text-to-video",
+        "zh": "四季轮转时间压缩",
+        "availability": "theme-only"
+      },
+      "capability": "text-to-video",
+      "duration_seconds": 30,
+      "aspect_ratio": "16:9",
+      "resolution": "4k",
+      "categories": [],
+      "tags": [],
+      "media": {
+        "preview_image": null,
+        "preview_video": null,
+        "rights_status": "first-party"
+      },
+      "fallback": {
+        "model": "seedance-2.0",
+        "notes": "Two seasons, 15s."
+      }
+    }
+  ]
+}

@@ -1,0 +1,667 @@
+{
+  "schema_version": "1.0",
+  "partition": "seedance-2.5/official-cases",
+  "source_file": "official-cases.json",
+  "items": [
+    {
+      "schema_version": "1.0",
+      "id": "crystal-ball-match-cut",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "official-showcase",
+        "url": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/firstScreen/group1/1.mp4",
+        "author": null,
+        "license_status": "review-required",
+        "attribution": "ByteDance/Volcengine showcase; verify redistribution rights"
+      },
+      "title": {
+        "en": "Crystal Ball Match-Cut Film",
+        "zh": "水晶球卡点转场短片"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: A fixed crystal ball with a Seedance mark stays sharp while scenes switch rapidly to electronic beats.",
+        "zh": "水晶球主体固定清晰，背景随电子节拍高速无缝切换。",
+        "availability": "theme-only"
+      },
+      "capability": "text-to-video",
+      "duration_seconds": null,
+      "aspect_ratio": "16:9",
+      "resolution": null,
+      "categories": [
+        "Cinematic transition"
+      ],
+      "tags": [
+        "match-cut",
+        "music-sync",
+        "glass",
+        "brand-film",
+        "cinematic"
+      ],
+      "media": {
+        "preview_image": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/firstScreen/group1/1.mp4?x-tos-process=video/snapshot,t_0,f_jpg,w_0,h_0,m_fast",
+        "preview_video": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/firstScreen/group1/1.mp4",
+        "rights_status": "review-required"
+      },
+      "fallback": null
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cinematic-window-brand-film",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "official-showcase",
+        "url": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/firstScreen/group3/output.mp4",
+        "author": null,
+        "license_status": "review-required",
+        "attribution": "ByteDance/Volcengine showcase; verify redistribution rights"
+      },
+      "title": {
+        "en": "Window Motif Brand Film",
+        "zh": "窗景意象品牌短片"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: A reference-guided sequence moves through window-like motifs, water, fish, garden windows, stained glass, and eyes.",
+        "zh": "以参考图串联车窗、水下、花窗、彩窗、眼睛等窗口意象。",
+        "availability": "theme-only"
+      },
+      "capability": "image-to-video",
+      "duration_seconds": null,
+      "aspect_ratio": "16:9",
+      "resolution": null,
+      "categories": [
+        "Reference-driven brand concept"
+      ],
+      "tags": [
+        "image-reference",
+        "brand-film",
+        "surreal-transition",
+        "window",
+        "music-sync"
+      ],
+      "media": {
+        "preview_image": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/firstScreen/group3/output.mp4?x-tos-process=video/snapshot,t_0,f_jpg,w_0,h_0,m_fast",
+        "preview_video": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/firstScreen/group3/output.mp4",
+        "rights_status": "review-required"
+      },
+      "fallback": null
+    },
+    {
+      "schema_version": "1.0",
+      "id": "steampunk-ornithopter-one-take",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "official-showcase",
+        "url": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/firstScreen/group2/2.mp4",
+        "author": null,
+        "license_status": "review-required",
+        "attribution": "ByteDance/Volcengine showcase; verify redistribution rights"
+      },
+      "title": {
+        "en": "Steampunk Ornithopter One-Take",
+        "zh": "蒸汽朋克扑翼机一镜到底"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: A 30-second continuous steampunk miniature journey through gears, an ornithopter, a zoetrope, a cable car, glass waves, and a moon ridge.",
+        "zh": "30 秒连续穿梭蒸汽朋克微缩世界，包含齿轮、扑翼机、幻影箱、缆车、玻璃海浪和月光山脊。",
+        "availability": "theme-only"
+      },
+      "capability": "text-to-video",
+      "duration_seconds": 30,
+      "aspect_ratio": "16:9",
+      "resolution": null,
+      "categories": [
+        "30-second narrative"
+      ],
+      "tags": [
+        "30s",
+        "one-take",
+        "steampunk",
+        "miniature",
+        "camera-through"
+      ],
+      "media": {
+        "preview_image": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/firstScreen/group2/2.mp4?x-tos-process=video/snapshot,t_0,f_jpg,w_0,h_0,m_fast",
+        "preview_video": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/firstScreen/group2/2.mp4",
+        "rights_status": "review-required"
+      },
+      "fallback": null
+    },
+    {
+      "schema_version": "1.0",
+      "id": "six-connected-rooms",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "official-showcase",
+        "url": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/part1/tab1/group1/output.mp4",
+        "author": null,
+        "license_status": "review-required",
+        "attribution": "ByteDance/Volcengine showcase; verify redistribution rights"
+      },
+      "title": {
+        "en": "Six Connected Rooms",
+        "zh": "六个相连房间"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: A black-coated character walks across six rooms with the same structure but changing moods, visual styles, and reference-driven events.",
+        "zh": "黑衣人物匀速穿过六个结构一致但情绪、风格和事件完全不同的房间。",
+        "availability": "theme-only"
+      },
+      "capability": "image-to-video",
+      "duration_seconds": 30,
+      "aspect_ratio": "16:9",
+      "resolution": null,
+      "categories": [
+        "Multi-reference scene arc"
+      ],
+      "tags": [
+        "30s",
+        "multi-reference",
+        "character",
+        "rooms",
+        "style-shift"
+      ],
+      "media": {
+        "preview_image": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/part1/tab1/group1/output.mp4?x-tos-process=video/snapshot,t_0,f_jpg,w_0,h_0,m_fast",
+        "preview_video": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/part1/tab1/group1/output.mp4",
+        "rights_status": "review-required"
+      },
+      "fallback": null
+    },
+    {
+      "schema_version": "1.0",
+      "id": "energy-bow-edit",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "official-showcase",
+        "url": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/part2/group1/output.mp4",
+        "author": null,
+        "license_status": "review-required",
+        "attribution": "ByteDance/Volcengine showcase; verify redistribution rights"
+      },
+      "title": {
+        "en": "Energy Bow Video Edit",
+        "zh": "能量弓视频编辑"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: A reference video keeps its character, motion, camera, and duration while an electric bow and arrow are added.",
+        "zh": "保持参考视频人物、环境、镜头、动作和时长，仅加入蓝白色能量弓箭效果。",
+        "availability": "theme-only"
+      },
+      "capability": "video-editing",
+      "duration_seconds": null,
+      "aspect_ratio": "16:9",
+      "resolution": null,
+      "categories": [
+        "Controlled edit"
+      ],
+      "tags": [
+        "video-edit",
+        "reference-video",
+        "vfx",
+        "energy",
+        "controlled-edit"
+      ],
+      "media": {
+        "preview_image": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/part2/group1/output.mp4?x-tos-process=video/snapshot,t_0,f_jpg,w_0,h_0,m_fast",
+        "preview_video": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/part2/group1/output.mp4",
+        "rights_status": "review-required"
+      },
+      "fallback": null
+    },
+    {
+      "schema_version": "1.0",
+      "id": "fpv-multilingual-hello",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "official-showcase",
+        "url": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/part3/group1/output.mp4",
+        "author": null,
+        "license_status": "review-required",
+        "attribution": "ByteDance/Volcengine showcase; verify redistribution rights"
+      },
+      "title": {
+        "en": "FPV Multilingual Hello",
+        "zh": "FPV 多语种你好"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: A continuous FPV drone path forms eleven language greetings through clouds, fog, ribbons, waterfalls, reflections, fields, architecture, and fountains.",
+        "zh": "FPV 无人机一镜到底穿越自然与城市场景，依次形成 11 种语言问候。",
+        "availability": "theme-only"
+      },
+      "capability": "image-to-video",
+      "duration_seconds": 33,
+      "aspect_ratio": "16:9",
+      "resolution": null,
+      "categories": [
+        "Multilingual text in scene"
+      ],
+      "tags": [
+        "fpv",
+        "multilingual",
+        "text-rendering",
+        "one-take",
+        "reference-images"
+      ],
+      "media": {
+        "preview_image": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/part3/group1/output.mp4?x-tos-process=video/snapshot,t_0,f_jpg,w_0,h_0,m_fast",
+        "preview_video": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/part3/group1/output.mp4",
+        "rights_status": "review-required"
+      },
+      "fallback": null
+    },
+    {
+      "schema_version": "1.0",
+      "id": "creative-multilingual-text-loop",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "official-showcase",
+        "url": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/16-9/169-1.mp4",
+        "author": null,
+        "license_status": "review-required",
+        "attribution": "ByteDance/Volcengine showcase; verify redistribution rights"
+      },
+      "title": {
+        "en": "Creative Multilingual Text Loop",
+        "zh": "多语种创造文字循环"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: A seamless loop where the idea of creation appears across multiple languages and visual-material styles.",
+        "zh": "以多语种“创造”为主线，连续切换欧普、蜡笔、街机、蜡染、金箔、翻页、羽毛、水墨、玻璃和液态金属等风格。",
+        "availability": "theme-only"
+      },
+      "capability": "text-to-video",
+      "duration_seconds": 15,
+      "aspect_ratio": "16:9",
+      "resolution": null,
+      "categories": [
+        "Visual effects"
+      ],
+      "tags": [
+        "text-animation",
+        "loop",
+        "multilingual",
+        "typography",
+        "vfx"
+      ],
+      "media": {
+        "preview_image": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/16-9/169-1.mp4?x-tos-process=video/snapshot,t_0,f_jpg,w_0,h_0,m_fast",
+        "preview_video": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/16-9/169-1.mp4",
+        "rights_status": "review-required"
+      },
+      "fallback": null
+    },
+    {
+      "schema_version": "1.0",
+      "id": "haute-couture-bokeh-film",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "official-showcase",
+        "url": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/3-4/34-1.mp4",
+        "author": null,
+        "license_status": "review-required",
+        "attribution": "ByteDance/Volcengine showcase; verify redistribution rights"
+      },
+      "title": {
+        "en": "Haute Couture Bokeh Film",
+        "zh": "高定光斑视觉大片"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: A high-fashion cinematic sequence built around macro light, piano performance, garden motion, slow reading, bubbles, and material detail.",
+        "zh": "高定品牌级视觉短片，结合微距光斑、钢琴、花径奔跑、喷泉阅读、泡泡折射和材质细节。",
+        "availability": "theme-only"
+      },
+      "capability": "text-to-video",
+      "duration_seconds": 30,
+      "aspect_ratio": "3:4",
+      "resolution": null,
+      "categories": [
+        "Film"
+      ],
+      "tags": [
+        "fashion",
+        "bokeh",
+        "macro",
+        "slow-motion",
+        "cinematic"
+      ],
+      "media": {
+        "preview_image": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/3-4/34-1.mp4?x-tos-process=video/snapshot,t_0,f_jpg,w_0,h_0,m_fast",
+        "preview_video": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/3-4/34-1.mp4",
+        "rights_status": "review-required"
+      },
+      "fallback": null
+    },
+    {
+      "schema_version": "1.0",
+      "id": "deep-sea-jellyfish-seedance",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "official-showcase",
+        "url": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/1-1/11-1.mp4",
+        "author": null,
+        "license_status": "review-required",
+        "attribution": "ByteDance/Volcengine showcase; verify redistribution rights"
+      },
+      "title": {
+        "en": "Deep-Sea Jellyfish Seedance",
+        "zh": "深海水母 Seedance"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: A blue coral reef scene adds softly glowing jellyfish and bubbles that form the word Seedance.",
+        "zh": "蓝色珊瑚礁中加入发光水母群和上浮气泡，并让气泡形成 Seedance 字样。",
+        "availability": "theme-only"
+      },
+      "capability": "text-to-video",
+      "duration_seconds": null,
+      "aspect_ratio": "1:1",
+      "resolution": null,
+      "categories": [
+        "Post effects"
+      ],
+      "tags": [
+        "underwater",
+        "jellyfish",
+        "text-rendering",
+        "vfx",
+        "coral"
+      ],
+      "media": {
+        "preview_image": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/1-1/11-1.mp4?x-tos-process=video/snapshot,t_0,f_jpg,w_0,h_0,m_fast",
+        "preview_video": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/1-1/11-1.mp4",
+        "rights_status": "review-required"
+      },
+      "fallback": null
+    },
+    {
+      "schema_version": "1.0",
+      "id": "floating-desert-gallery",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "official-showcase",
+        "url": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/1-1/11-2.mp4",
+        "author": null,
+        "license_status": "review-required",
+        "attribution": "ByteDance/Volcengine showcase; verify redistribution rights"
+      },
+      "title": {
+        "en": "Floating Desert Gallery",
+        "zh": "漂浮沙漠美术馆"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: A minimalist white gallery floats above a golden desert, with the camera entering the surreal interior and opening back to sky.",
+        "zh": "清晨金色沙漠里，极简白色美术馆漂浮于沙丘上方，镜头推进进入内部再打开至天空。",
+        "availability": "theme-only"
+      },
+      "capability": "text-to-video",
+      "duration_seconds": null,
+      "aspect_ratio": "1:1",
+      "resolution": null,
+      "categories": [
+        "Film"
+      ],
+      "tags": [
+        "surreal",
+        "architecture",
+        "desert",
+        "gallery",
+        "cinematic"
+      ],
+      "media": {
+        "preview_image": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/1-1/11-2.mp4?x-tos-process=video/snapshot,t_0,f_jpg,w_0,h_0,m_fast",
+        "preview_video": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/1-1/11-2.mp4",
+        "rights_status": "review-required"
+      },
+      "fallback": null
+    },
+    {
+      "schema_version": "1.0",
+      "id": "desert-brand-concept-film",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "official-showcase",
+        "url": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/16-9/169-2.mp4",
+        "author": null,
+        "license_status": "review-required",
+        "attribution": "ByteDance/Volcengine showcase; verify redistribution rights"
+      },
+      "title": {
+        "en": "Desert Brand Concept Film",
+        "zh": "荒漠高级品牌概念片"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: A 30-second high-end desert fashion film uses inverted perspective, macro fashion details, LED stage reveal, and moonlit texture closeups.",
+        "zh": "30 秒荒漠高端品牌大片，包含颠倒视角、风沙时装特写、虚拟影棚揭示和月光质感收束。",
+        "availability": "theme-only"
+      },
+      "capability": "text-to-video",
+      "duration_seconds": 30,
+      "aspect_ratio": "16:9",
+      "resolution": null,
+      "categories": [
+        "Advertising"
+      ],
+      "tags": [
+        "advertising",
+        "fashion",
+        "desert",
+        "macro",
+        "brand-film"
+      ],
+      "media": {
+        "preview_image": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/16-9/169-2.mp4?x-tos-process=video/snapshot,t_0,f_jpg,w_0,h_0,m_fast",
+        "preview_video": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/16-9/169-2.mp4",
+        "rights_status": "review-required"
+      },
+      "fallback": null
+    },
+    {
+      "schema_version": "1.0",
+      "id": "peking-opera-heritage",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "official-showcase",
+        "url": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/3-4/34-2.mp4",
+        "author": null,
+        "license_status": "review-required",
+        "attribution": "ByteDance/Volcengine showcase; verify redistribution rights"
+      },
+      "title": {
+        "en": "Peking Opera Heritage Short",
+        "zh": "京剧非遗传承短片"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: A warm, restrained heritage film follows a master and apprentice through Peking opera craft, costume, and handover.",
+        "zh": "温暖克制的京剧非遗短片，围绕老师傅、学徒、手作细节、戏服整理和传承情感展开。",
+        "availability": "theme-only"
+      },
+      "capability": "text-to-video",
+      "duration_seconds": null,
+      "aspect_ratio": "3:4",
+      "resolution": null,
+      "categories": [
+        "Film"
+      ],
+      "tags": [
+        "heritage",
+        "peking-opera",
+        "craft",
+        "human-story",
+        "cinematic"
+      ],
+      "media": {
+        "preview_image": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/3-4/34-2.mp4?x-tos-process=video/snapshot,t_0,f_jpg,w_0,h_0,m_fast",
+        "preview_video": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/3-4/34-2.mp4",
+        "rights_status": "review-required"
+      },
+      "fallback": null
+    },
+    {
+      "schema_version": "1.0",
+      "id": "oceanic-civilization-theater",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "official-showcase",
+        "url": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/16-9/169-3.mp4",
+        "author": null,
+        "license_status": "review-required",
+        "attribution": "ByteDance/Volcengine showcase; verify redistribution rights"
+      },
+      "title": {
+        "en": "Theater of Oceanic Civilization",
+        "zh": "海洋文明剧场"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: An epic sci-fi ocean civilization sequence descends into deep ruins, awakens a sculptural lifeform, raises a temple ship, and pulls back to cosmic scale.",
+        "zh": "史诗科幻海洋文明，从深海遗迹、雕塑生命体、文明苏醒、神殿船升起到太空尺度收束。",
+        "availability": "theme-only"
+      },
+      "capability": "text-to-video",
+      "duration_seconds": 30,
+      "aspect_ratio": "16:9",
+      "resolution": null,
+      "categories": [
+        "Game / sci-fi"
+      ],
+      "tags": [
+        "sci-fi",
+        "ocean",
+        "megastructure",
+        "spiral-camera",
+        "epic"
+      ],
+      "media": {
+        "preview_image": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/16-9/169-3.mp4?x-tos-process=video/snapshot,t_0,f_jpg,w_0,h_0,m_fast",
+        "preview_video": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/16-9/169-3.mp4",
+        "rights_status": "review-required"
+      },
+      "fallback": null
+    },
+    {
+      "schema_version": "1.0",
+      "id": "mechanical-bloom",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "official-showcase",
+        "url": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/1-1/11-3.mp4",
+        "author": null,
+        "license_status": "review-required",
+        "attribution": "ByteDance/Volcengine showcase; verify redistribution rights"
+      },
+      "title": {
+        "en": "Mechanical Bloom",
+        "zh": "机械花开"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: A one-take macro push starts from a dark metal bud, enters precise mechanical petals, and climaxes with a full luminous bloom.",
+        "zh": "一镜到底微距推进，从黑暗金属花苞进入精密机械花瓣，最终机械花绽放并向外扩光。",
+        "availability": "theme-only"
+      },
+      "capability": "text-to-video",
+      "duration_seconds": null,
+      "aspect_ratio": "1:1",
+      "resolution": null,
+      "categories": [
+        "Film"
+      ],
+      "tags": [
+        "macro",
+        "mechanical",
+        "one-take",
+        "metal",
+        "brand-ad"
+      ],
+      "media": {
+        "preview_image": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/1-1/11-3.mp4?x-tos-process=video/snapshot,t_0,f_jpg,w_0,h_0,m_fast",
+        "preview_video": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/1-1/11-3.mp4",
+        "rights_status": "review-required"
+      },
+      "fallback": null
+    },
+    {
+      "schema_version": "1.0",
+      "id": "silk-road-pomegranate",
+      "model": {
+        "family": "seedance",
+        "version": "2.5"
+      },
+      "source": {
+        "type": "official-showcase",
+        "url": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/3-4/34-3.mp4",
+        "author": null,
+        "license_status": "review-required",
+        "attribution": "ByteDance/Volcengine showcase; verify redistribution rights"
+      },
+      "title": {
+        "en": "Silk Road Pomegranate Journey",
+        "zh": "丝路石榴岩彩动画"
+      },
+      "prompt": {
+        "en": "Prompt withheld; indexed theme: A rock-color flat animation follows pomegranate from branch, Silk Road travel, modern table, juice making, and poster-like close.",
+        "zh": "岩彩平面动画，讲述石榴从枝头、丝路古道、现代案台到榨成果汁和海报式收束的旅程。",
+        "availability": "theme-only"
+      },
+      "capability": "text-to-video",
+      "duration_seconds": 30,
+      "aspect_ratio": "3:4",
+      "resolution": null,
+      "categories": [
+        "Education / commercial"
+      ],
+      "tags": [
+        "flat-animation",
+        "silk-road",
+        "pomegranate",
+        "commercial",
+        "rock-color"
+      ],
+      "media": {
+        "preview_image": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/3-4/34-3.mp4?x-tos-process=video/snapshot,t_0,f_jpg,w_0,h_0,m_fast",
+        "preview_video": "https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/ugc/3-4/34-3.mp4",
+        "rights_status": "review-required"
+      },
+      "fallback": null
+    }
+  ]
+}

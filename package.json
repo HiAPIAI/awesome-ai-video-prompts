@@ -1,0 +1,11 @@
+{
+  "name": "awesome-ai-video-prompts",
+  "version": "0.1.0",
+  "description": "Rights-aware index of Seedance AI video prompt cases and templates",
+  "type": "module",
+  "scripts": {
+    "migrate:check": "node migrate-prompts.mjs --source 2.0 --input data/seedance-2.0/index.json"
+  },
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}
