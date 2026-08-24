@@ -37,6 +37,18 @@ new source snapshots can be regenerated without mixing model partitions.
 - [Seedance 2.0 prompt gallery](https://github.com/HiAPIAI/awesome-seedance-2-0-prompts)
 - [Seedance 2.5 prompt gallery](https://github.com/HiAPIAI/awesome-seedance-2-5-prompts)
 
+## Generate Seedance 2.5 with HiAPI
+
+Use the [HiAPI Seedance 2.5 Video Skill](https://github.com/HiAPIAI/hiapi-seedance-2-5-video-skill) for contract-checked dry runs, current pricing estimates, recoverable paid generation, download, and quality control.
+
+The current public model IDs and resolution contracts are:
+
+- `seedance-2.5/text-to-video`: 720p or 1080p; default 720p.
+- `seedance-2.5/image-to-video`: 720p or 1080p; default 720p.
+- `seedance-2.5/reference-to-video`: 480p, 720p, or 1080p; default 480p.
+
+The public contract does not expose 4K. Recheck the live model schemas before changing runnable examples.
+
 ## License and attribution
 
 The index format and migration code are MIT licensed. Source posts, official
