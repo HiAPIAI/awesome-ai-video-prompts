@@ -47,7 +47,11 @@ The current public model IDs and resolution contracts are:
 - `seedance-2.5/image-to-video`: 720p or 1080p; default 720p.
 - `seedance-2.5/reference-to-video`: 480p, 720p, or 1080p; default 480p.
 
-The public contract does not expose 4K. Recheck the live model schemas before changing runnable examples.
+Reference mode supports duration=-1 for automatic output and charges reference-video plus output duration. Use skill version 1.2.0 or later; new paid creation requires the latest version, while recovery of an existing task remains available.
+
+Update with `npx -y github:HiAPIAI/hiapi-seedance-2-5-video-skill -y`.
+
+The public contract does not expose 4K or literal video editing/extension. Recheck the live model schemas before changing runnable examples.
 
 ## License and attribution
 
